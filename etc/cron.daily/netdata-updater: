@@ -1,0 +1,5 @@
+/etc/cron.daily/netdata-updater:
+No stash found.
+>From https://github.com/netdata/netdata
+   3c3cc93..bd3cfad  master     -> origin/master
+Already on 'master'
